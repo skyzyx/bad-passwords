@@ -62,7 +62,7 @@ My intention is to release all rights to this documentation and make it availabl
      href="https://github.com/skyzyx/php-coding-standards">
     <span property="dct:title">Ryan Parman</span></a>
   has waived all copyright and related or neighboring rights to
-  "<span property="dct:title">Parman PHP Coding Standards</span>".
+  "<span property="dct:title">Bad Passwords</span>".
 This work is published from:
 <span property="vcard:Country" datatype="dct:ISO3166"
       content="US" about="https://github.com/skyzyx/php-coding-standards">
