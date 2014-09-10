@@ -1,6 +1,6 @@
 # [Bad Passwords](http://github.com/skyzyx/bad-passwords)
 
-{Fill-in: Description of the project.}
+A list of the top 10,000 most-used passwords from hacked password lists.
 
 
 ## Requirements
