@@ -7,22 +7,7 @@
 ### Required
 The following software is **required** for Bad Passwords to run:
 
-* [PHP] 5.4.0+
-
-### Optional
-
-{Fill-in: Optional dependencies.}
-
-
-## Examples
-
-{Fill-in: Example usage of this code.}
-
-
-## Features
-
-{Fill-in: Features this package provides.}
-
+* [PHP] 5.3.0+
 
 ## Installation
 
@@ -60,12 +45,6 @@ Here's the process for contributing:
 5. You submit a GitHub pull request with a description of what the change is.
 6. The contribution is reviewed. Maybe there will be some banter back-and-forth in the comments.
 7. If all goes well, your pull request will be accepted and your changes are merged in.
-
-
-## Testing
-[![Build Status](https://secure.travis-ci.org/skyzyx/bad-passwords.png)](http://travis-ci.org/skyzyx/bad-passwords)
-
-Bad Passwords strives to have 100% code-coverage of the library with an extensive set of tests. We're not quite there yet, but we're getting close.
 
 
 ## Authors, Copyright & Licensing
