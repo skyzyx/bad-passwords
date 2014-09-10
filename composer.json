@@ -1,0 +1,20 @@
+{
+    "name": "skyzyx/bad-passwords",
+    "description": "A list of the top 10,000 most-used passwords from hacked password lists.",
+    "keywords": ["password"],
+    "license": "Public Domain",
+    "authors": [
+        {
+            "name": "Ryan Parman",
+            "homepage": "http://ryanparman.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Skyzyx\\Dictionary\\BadPassword\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
