@@ -10,8 +10,8 @@
         }
     ],
     "autoload": {
-        "psr-0": {
-            "Skyzyx\\Dictionary\\BadPassword\\": "src/"
+        "psr-4": {
+            "Skyzyx\\Dictionary\\BadPassword\\": "src/BadPassword/"
         }
     },
     "require": {

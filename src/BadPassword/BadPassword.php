@@ -3,6 +3,8 @@
  * Released to the Public Domain.
  */
 
+namespace Skyzyx\Dictionary\BadPassword;
+
 class BadPassword
 {
     /** @var array<string> */
