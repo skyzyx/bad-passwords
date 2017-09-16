@@ -10,6 +10,10 @@ john --wordlist=raw.txt --rules --stdout > raw-mutated.txt
 
 This produces a list which starts with the top 10,000 and makes commonplace alterations to that list. This increases the size of the list from 10,000 → over 422,000.
 
+## See Also…
+
+> **NOTE:** This is a list of known-bad clear text passwords. For a list of known-bad password SHA-1 hashes, see https://github.com/skyzyx/bad-password-hashes.
+
 ## Requirements
 ### Required
 The following software is **required** for Bad Passwords to run:
